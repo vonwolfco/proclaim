@@ -1,0 +1,25 @@
+/* Tool Lists */
+button.acf_field_price_display{position: relative;top: -220px;float: right;right: 0;border-radius: 4px;padding: 0.25em 0.5em;border: 1px solid #999;}
+img.acf_field_featured_tag {max-width: 36px;display: inline-block;position: absolute;top: 15px;left: 10px;}
+p.acf_field_overview{display:-webkit-box;overflow:hidden;-webkit-line-clamp:3;-webkit-box-orient:vertical;height:6em;margin-top:.5em;margin-bottom:1em;}
+.et-db #et-boc .et-l .et_pb_bg_layout_light .et_pb_post .post-meta{color: #fff;}
+article p.post-meta a{padding:.5em .66em; background-color:rgba(50,25,140,.9); border:1px solid #442288; color:#f9f9f9!important; border-radius:4px; margin:.25em 0;letter-spacing:.5px; text-transform:uppercase; font-size:8pt; font-weight:400;}
+article p.post-meta a:hover{background-color:rgba(50,25,140,.8);}
+.et-blog-css-grid-large .et_pb_ajax_pagination_container {display: grid;grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));gap: 30px 60px;}
+.et-blog-css-grid-med .et_pb_ajax_pagination_container {display: grid;grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));gap: 30px 60px;}
+.et-blog-css-grid-small .et_pb_ajax_pagination_container {display: grid;grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));gap: 30px 60px;}
+.et_pb_post .entry-featured-image-url {display: block;position: relative;margin-bottom: 0;}
+.et_pb_post .entry-featured-image-url img{aspect-ratio: 9/6;}
+/*Tool Page */
+button.pricemodel{padding:.5em;background-color:rgba(245,245,245,.1);border:1px solid #f9f9f9;color:#f9f9f9;border-radius:4px;margin:.5em 0;letter-spacing:.5px;}
+
+.tool-categories a{padding:.75em 1em; background-color:rgba(50,25,140,.9); border:1px solid #442288; color:#f9f9f9; border-radius:4px; margin:.5em 0;letter-spacing:1px; text-transform:uppercase; font-size:10pt; font-weight:600; margin-right:1em;}
+.tool-categories a:hover{background-color:rgba(50,25,140,.8);}
+
+/*portfolio*/
+.et_pb_gutters2 .et_pb_column_4_4 .et_pb_grid_item,.et_pb_gutters2.et_pb_row .et_pb_column_4_4 .et_pb_grid_item {width: 31%;}
+.et_pb_gutters3 .et_pb_column_3_4 .et_pb_grid_item,.et_pb_gutters3.et_pb_row .et_pb_column_3_4 .et_pb_grid_item {width: 31.5%;margin-right: 2.5%;}
+
+.et_pb_portfolio_excerpt {margin-bottom: 1em;}
+a.et_pb_button {padding: 0.5em 1em;}
+a.et_pb_button:hover {padding: .5em 2em 0.5em 1em!important}
